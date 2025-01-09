@@ -7,7 +7,7 @@
 - **Lightweight design**: Operates with minimal resources, making it suitable for small and embedded systems.
 - **Custom bootloaders**: Includes different bootloaders (`yLoader`, `xLoader`, `VgaLoader`, `Winshell Disto`) for various configurations and requirements.
 - **Modular architecture**: The system is divided into different components such as `.oe` files, `.oew` files,  `.entity`,and `.oec` files for configuration and script execution.
-- **Operating Entity Language - OE**: Provides a unique language for scripting within the system, allowing users to automate tasks and customize system behavior.
+- **Z++ Assembely**: Provides a unique language for scripting within the system, allowing users to automate tasks and customize system behavior.
 - **Virtual Space**: Executes programs in a virtualized environment to ensure isolation and stability.
 - **Extensibility**: You can add new components or modify the existing ones by creating and modifying configuration files.
 
