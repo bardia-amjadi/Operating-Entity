@@ -1,7 +1,6 @@
 # Operating Entity
 
-**Operating Entity** is a lightweight operating system-program type project that aims to provide an efficient and secure environment similar to a traditional operating system but without the complexity typically associated with them. The project is highly modular and provides a customizable platform for various use cases, including command-line interfaces (CLI), graphical user interfaces (GUI), and more.
-
+**Operating Entity** refers to projects such as lightweight operating systems that aim to provide a functional and secure environment similar to a modern operating system, but without the complexity usually associated with them. The project is highly modular and offers a customizable platform for different use cases, including command-line interfaces (CLI), graphical user interfaces (GUI), etc.
 ## Features
 
 - **Lightweight design**: Operates with minimal resources, making it suitable for small and embedded systems.
